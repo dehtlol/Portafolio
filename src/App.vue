@@ -1,6 +1,5 @@
 <script setup>
     import HeaderComponent from './includes/header.vue';
-    import HomePage from './view/home/home.vue';
 </script>
 
 <template>
