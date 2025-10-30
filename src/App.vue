@@ -10,8 +10,4 @@
 </template>
 
 <style scoped>
-    body {
-    background-color: #fff;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    }
 </style>
