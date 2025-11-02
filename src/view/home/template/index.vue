@@ -46,7 +46,7 @@ export default {
     <div class="hero-content">
       <div class="photo">
         <div class="photo-frame">
-          <img src="/img/Rostro.png" alt="Foto de David Hernandez" />
+          <img src="/Rostro.png" alt="Foto de David Hernandez" />
           <div class="scan-line"></div>
         </div>
       </div>
