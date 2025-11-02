@@ -46,7 +46,7 @@ export default {
         </ul>
       </div>
       <div class="d-none d-md-flex align-items-center">
-        <a class="btn btn-neon ms-2" href="/Portafolio/cv.pdf" download="David_Hernandez_CV.pdf">
+        <a class="btn btn-neon ms-2" href="/Portafolio/david.pdf" download="David_Hernandez_CV.pdf">
           <i class="fa-solid fa-download me-1"></i> Descargar CV
         </a>
       </div>
